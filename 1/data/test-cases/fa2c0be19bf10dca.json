@@ -1,0 +1,203 @@
+{
+  "uid" : "fa2c0be19bf10dca",
+  "name" : "allureFixtureTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureFixtureTest.allureFixtureTest",
+  "historyId" : "928ba583d78cf996e6dfaed40645af76",
+  "time" : {
+    "start" : 1615905525980,
+    "stop" : 1615905525998,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeAll",
+    "time" : {
+      "start" : 1615905525888,
+      "stop" : 1615905525894,
+      "duration" : 6
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside beforeAll",
+      "time" : {
+        "start" : 1615905525891,
+        "stop" : 1615905525892,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "beforeEach",
+    "time" : {
+      "start" : 1615905525985,
+      "stop" : 1615905525985,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside beforeEach",
+      "time" : {
+        "start" : 1615905525985,
+        "stop" : 1615905525985,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside allureFixtureTest",
+      "time" : {
+        "start" : 1615905525987,
+        "stop" : 1615905525987,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterAll",
+    "time" : {
+      "start" : 1615905526109,
+      "stop" : 1615905526109,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside afterAll",
+      "time" : {
+        "start" : 1615905526109,
+        "stop" : 1615905526109,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "afterEach",
+    "time" : {
+      "start" : 1615905525989,
+      "stop" : 1615905525990,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside afterEach",
+      "time" : {
+        "start" : 1615905525989,
+        "stop" : 1615905525989,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az213-850"
+  }, {
+    "name" : "thread",
+    "value" : "3095@fv-az213-850.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureFixtureTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureFixtureTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureFixtureTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureFixtureTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa2c0be19bf10dca.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,176 @@
+{
+  "uid" : "f5cf7f520a6f9364",
+  "name" : "allureSimpleTest displayName",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureSimpleTest.allureSimpleTest",
+  "historyId" : "42e78a12ffdafedde84c3e9a61585391",
+  "time" : {
+    "start" : 1615905526133,
+    "stop" : 1615905526153,
+    "duration" : 20
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Simple step",
+      "time" : {
+        "start" : 1615905526133,
+        "stop" : 1615905526133,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with status",
+      "time" : {
+        "start" : 1615905526134,
+        "stop" : 1615905526134,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple lambda step",
+      "time" : {
+        "start" : 1615905526136,
+        "stop" : 1615905526138,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Simple step inside lambda step",
+        "time" : {
+          "start" : 1615905526138,
+          "stop" : 1615905526138,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Simple test method with step annotation",
+      "time" : {
+        "start" : 1615905526152,
+        "stop" : 1615905526153,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Method parameter: method parameter",
+        "time" : {
+          "start" : 1615905526152,
+          "stop" : 1615905526152,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Simple step inside test method",
+        "time" : {
+          "start" : 1615905526152,
+          "stop" : 1615905526152,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "param",
+        "value" : "method parameter"
+      } ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az213-850"
+  }, {
+    "name" : "thread",
+    "value" : "3095@fv-az213-850.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSimpleTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5cf7f520a6f9364.json",
+  "parameterValues" : [ ]
+}

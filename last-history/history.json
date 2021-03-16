@@ -1,0 +1,122 @@
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37fadca22a16daa8",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/37fadca22a16daa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905526102,
+        "stop" : 1615905526103,
+        "duration" : 1
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa2c0be19bf10dca",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/fa2c0be19bf10dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905525980,
+        "stop" : 1615905525998,
+        "duration" : 18
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13f2c951b0e7b276",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/13f2c951b0e7b276",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905526162,
+        "stop" : 1615905526163,
+        "duration" : 1
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5cf7f520a6f9364",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/f5cf7f520a6f9364",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905526133,
+        "stop" : 1615905526153,
+        "duration" : 20
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39ed714fae3bd1ae",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/39ed714fae3bd1ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905526197,
+        "stop" : 1615905526231,
+        "duration" : 34
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d1a624a92b819a8",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-project/1//#testresult/5d1a624a92b819a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615905526248,
+        "stop" : 1615905526249,
+        "duration" : 1
+      }
+    } ]
+  }
+}
